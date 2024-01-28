@@ -1,6 +1,6 @@
 Contribution Guidelines
 Welcome Contributors!
-Thank you for considering contributing to the centralized repository. This document outlines the guidelines for contributing to the development of calculating the fallen angel status of a given stock based on its historical PE ratios in VBA code.
+Thank you for considering contributing to the centralized repository. This document outlines the guidelines for contributing to the development of calculating the fallen angel status of a given stock based on its historical PE ratios using VBA code.
 
 Code Style
 Please follow the coding style and conventions used in the existing codebase. This helps maintain consistency across the project.
